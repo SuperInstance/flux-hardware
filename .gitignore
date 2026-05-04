@@ -1,0 +1,10 @@
+*.so
+*.o
+*.ptx
+*.cubin
+*.a
+__pycache__/
+target/
+build/
+*.pyc
+.DS_Store
